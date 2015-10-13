@@ -1,1 +1,3 @@
 git is a open source tool
+
+git is  developed by linux torvalds
